@@ -11,7 +11,7 @@
 	<body>
 		<div class="jumbotron" style="background-color: white">
 			<h1 class="text-center">Welcome to our new Maven web Application</h1>
-			<h1>Hello GLS_A students ab Adel tayara f git</h1>
+			<h1>Hello GLS_A students by Nadher</h1>
 			<img
 				src="https://www.tek-up.de/plans/img/logo-header.png"
 				alt="Spidertocat"
